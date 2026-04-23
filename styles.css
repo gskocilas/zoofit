@@ -176,7 +176,7 @@ body {
 .cta {
   background: transparent;
   border: 0;
-  padding: 0;
+  padding: 15px 0 45px;
   margin: 0;
   cursor: pointer;
   line-height: 0;
@@ -506,11 +506,11 @@ body {
   }
 
   .loading {
-    font-size: clamp(59px, 19vw, 101px);
+    font-size: clamp(54.37px, 17.51vw, 93.07px);
   }
 
   .logo-svg {
-    width: 92vw;
+    width: 87.4vw;
   }
 
   .cta {
@@ -534,16 +534,16 @@ body {
   }
 
   .footer-mark {
-    width: 60%;
+    width: 48.6%;
   }
 }
 
 @media (max-width: 420px) {
   .logo-svg {
-    width: 96vw;
+    width: 91.2vw;
   }
   .loading {
-    font-size: 59px;
+    font-size: 54.37px;
   }
 }
 
